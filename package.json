@@ -1,0 +1,15 @@
+{
+  "name": "demo_stack",
+  "version": "1.0.0",
+  "description": "Demo stack as described at https://github.com/verekia/js-stack-from-scratch",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/matttgregg/js_stack_fromscratch.git",
+    "type": "git"
+  },
+  "author": "Matthew Gregg",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
